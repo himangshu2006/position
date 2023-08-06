@@ -1,0 +1,20 @@
+
+.heading{
+    padding-top: 200px;
+    padding-left: 200px;
+}
+.square{
+
+    height:300px ;
+    width: 500px;
+    background-color:blue ;
+}
+.circle{
+    position: relative;
+    bottom: 137px;
+    left: 278px;
+    height: 178px;
+    width: 178px;
+    border-radius:550px ;
+    background-color: red;
+}
